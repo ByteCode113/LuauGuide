@@ -171,5 +171,11 @@ setmetatable(table, metatable)
 print(table.metatable)
 ```
 
+## Metatables
+Metatables allow you to change the behavior of a table by defining special functions that are called when certain operations are performed on the table.
+
 > [!IMPORTANT]
 > For every exploit function: [here](https://github.com/sentinel-lua/exploit-functions/blob/main/main)
+
+> [!Less Important]
+> For every roblox executor documentation: [here](https://github.com/luau/Executor-API-Docs)
