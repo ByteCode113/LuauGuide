@@ -177,5 +177,5 @@ Metatables allow you to change the behavior of a table by defining special funct
 > [!IMPORTANT]
 > For every exploit function: [here](https://github.com/sentinel-lua/exploit-functions/blob/main/main)
 
-> [!Less Important]
+> [Less Important]
 > For every roblox executor documentation: [here](https://github.com/luau/Executor-API-Docs)
