@@ -1,7 +1,7 @@
 > [!IMPORTANT]
 > This guide may not have every function, take caution
 
-> Made by ScrapedMeteor. edited by byte
+> Made by ScrapedMeteor. edited by byte (genuinely did nothing)
 
 # luaU for idiots/skids
 Explains luaU for exploits in a user-friendly way!
